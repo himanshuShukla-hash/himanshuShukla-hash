@@ -1,14 +1,14 @@
 <!-- CATPPUCCIN ANIMATED HEADER -->
 <p align="center">
   <a href="https://github.com/himanshuShukla-hash">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Himanshu+Shukla+%F0%9F%91%8B;CS+Student+%26+AI+Enthusiast;Building+Practical+Solutions" alt="Animated Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Himanshu+Shukla+%F0%9F%91%8B;CS+Student+%26+AI+Enthusiast;Building+Practical+Projects" alt="Animated Header" />
   </a>
 </p>
 
 <!-- SECONDARY SUBTITLE TYPING -->
 <p align="center">
   <a href="https://github.com/himanshuShukla-hash">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&height=45&lines=B.Tech+CSE+%40+MAIT+(CGPA+8.88);SIH+2026+Qualifier+%E2%80%A2+WebVision+2.0+Finalist;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+FastAPI+%E2%80%A2+ML+%E2%80%A2+Chrome+MV3" alt="Animated Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&height=45&lines=B.Tech+in+Computer+Science+%40+MAIT;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+FastAPI+%E2%80%A2+Machine+Learning;Exploring+AI%2C+Geospatial+Data+%26+Web+Tools" alt="Animated Subtitle" />
   </a>
 </p>
 
@@ -39,13 +39,13 @@
 
 ---
 
-### 🚀 Featured Deployments
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛰️ MANGANEX</h3>
-      <p align="center"><b>AI/ML Satellite Prospectivity Platform (SIH 2026)</b></p>
+      <p align="center"><b>AI/ML Satellite Prospectivity Platform</b></p>
       <ul>
         <li>Trained a <b>Random Forest prospectivity model</b> on Sentinel-2 & Landsat satellite data across 11 MOIL mines.</li>
         <li>Forecasts production shortfall & maps interactive mineral heatmaps using <b>Leaflet & FastAPI</b>.</li>
@@ -59,7 +59,7 @@
       <p align="center"><b>Progressive Visual Friction Chrome Extension</b></p>
       <ul>
         <li>Curbs doomscrolling via <i>"friction, not force"</i> — degrades page aesthetic the longer the user stays.</li>
-        <li>Custom 4-stage decay engine (normal &rarr; warning &rarr; decay &rarr; chaos in 30s) running with 0 external APIs.</li>
+        <li>Custom 4-stage decay engine (normal &rarr; warning &rarr; decay &rarr; chaos in 30s) running with zero external APIs.</li>
       </ul>
       <p align="center">
         <code>JavaScript</code> • <code>Chrome MV3</code> • <code>CSS Engine</code>
@@ -80,7 +80,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛒 PauseCart</h3>
-      <p align="center"><b>Mindful Shopping Shield (Designathon Shunya)</b></p>
+      <p align="center"><b>Mindful Shopping Chrome Extension</b></p>
       <ul>
         <li>Enforces a mindful 20-second pause between Cart and Payment to reduce impulse purchases.</li>
         <li>Includes an explainable <b>Regret Risk Score</b>, cost-per-use calculator, and dark-pattern urgency timer shield.</li>
